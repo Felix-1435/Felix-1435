@@ -29,7 +29,8 @@
 
 
 ### 📅 Contribution Graph
-![Grid](https://github-profile-summary-cards.vercel.app/api/cards/grid?username=Felix-1435&theme=tokyonight)
+![Felix's Contribution Graph](https://github.com/users/Felix-1435/contributions?scheme=dark)
+
 
 ### 🏆 Trophies
 ![GitHub Trophies](https://github-profile-trophy-psi-indol.vercel.app/?username=Felix-1435&theme=tokyonight&no-frame=true&row=1&column=6)

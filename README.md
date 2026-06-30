@@ -26,4 +26,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Felix-1435&theme=tokyonight&hide_border=true)
 
 ### 🏆 Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Felix-1435&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-trophy-rouge.vercel.app/?username=Felix-1435&theme=tokyonight&no-frame=true&row=1&column=6)

@@ -19,6 +19,11 @@
 - Email: [felixshiju8@gmail.com]
 
 ### 📊 GitHub Stats
-![Felix's GitHub Stats](https://github-readme-stats-six-snowy-79.vercel.app/api?username=Felix-1435&show_icons=true&theme=nord&hide_border=true)
+![Felix's GitHub Stats](https://github-readme-stats-six-snowy-79.vercel.app/api?username=Felix-1435&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-six-snowy-79.vercel.app/api/top-langs/?username=Felix-1435&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats-six-snowy-79.vercel.app/api/top-langs/?username=Felix-1435&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-stats-six-snowy-79.vercel.app/api/streak?username=Felix-1435&theme=tokyonight&hide_border=true)
+
+### 🏆 Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Felix-1435&theme=tokyonight&no-frame=true&row=1&column=6)

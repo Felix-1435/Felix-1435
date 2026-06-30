@@ -19,4 +19,6 @@
 - Email: [felixshiju8@gmail.com]
 
 ### 📊 GitHub Stats
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-1435&show_icons=true&theme=radical)
+![Felix's GitHub Stats](https://github-readme-stats-six-snowy-79.vercel.app/api?username=Felix-1435&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats-six-snowy-79.vercel.app/api/top-langs/?username=Felix-1435&layout=compact&theme=radical&hide_border=true)

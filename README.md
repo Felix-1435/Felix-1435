@@ -1,7 +1,9 @@
 # Hi, I'm Felix 👋
 
 🎓 Diploma Engineering student (GTU) transitioning into B.Tech CSE via ACPC DDCET lateral entry
+
 💻 Interested in web development, machine learning, and building with AI tools
+
 🎹 Trinity College London certified in Rock & Pop Keyboards and Theory of Music
 
 ---
@@ -27,7 +29,7 @@
 
 
 ### 📅 Contribution Graph
-![Felix's GitHub Contribution Graph](https://ghchart.rshah.org/2ea44f/Felix-1435)
+![Grid](https://github-profile-summary-cards.vercel.app/api/cards/grid?username=Felix-1435&theme=tokyonight)
 
 ### 🏆 Trophies
 ![GitHub Trophies](https://github-profile-trophy-psi-indol.vercel.app/?username=Felix-1435&theme=tokyonight&no-frame=true&row=1&column=6)

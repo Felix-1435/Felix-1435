@@ -27,7 +27,7 @@
 
 
 ### 📅 Contribution Graph
-![Felix's GitHub Contribution Graph](https://ghchart.rshah.org/Felix-1435)
+![Felix's GitHub Contribution Graph](https://ghchart.rshah.org/7aa2f7/Felix-1435)
 
 ### 🏆 Trophies
 ![GitHub Trophies](https://github-profile-trophy-psi-indol.vercel.app/?username=Felix-1435&theme=tokyonight&no-frame=true&row=1&column=6)

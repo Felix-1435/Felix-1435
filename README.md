@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats-six-snowy-79.vercel.app/api/top-langs/?username=Felix-1435&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-stats-six-snowy-79.vercel.app/api/streak?username=Felix-1435&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Felix-1435&theme=tokyonight&hide_border=true)
 
 ### 🏆 Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Felix-1435&theme=tokyonight&no-frame=true&row=1&column=6)

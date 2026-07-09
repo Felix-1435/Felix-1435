@@ -4,6 +4,7 @@
 💻 Interested in Artifical intelligence, Prompt designing, web development, machine learning, and building with AI tools
 
 🎹 Trinity College London certified in Rock & Pop Keyboards and Theory of Music
+
 ---
 
 ### 🚀 What I'm working on

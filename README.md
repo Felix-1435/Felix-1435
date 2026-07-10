@@ -45,8 +45,6 @@ const felix = {
 
 #### 🌤️ Foody — Food Delivery App UI
 
-![Foody Pin](https://github-readme-stats-six-snowy-79.vercel.app/api/pin/?username=Felix-1435&repo=foody-app-ui&theme=nord&border_color=7dd3fc&text_color=ffffff&title_color=7dd3fc)
-
 Complete mobile ordering flow designed in Figma, from browsing to checkout and support.
 
 | Layer   | Technology |
@@ -60,15 +58,13 @@ Complete mobile ordering flow designed in Figma, from browsing to checkout and s
 
 #### ☀️ Solar AI System
 
-![Solar AI Pin](https://github-readme-stats-six-snowy-79.vercel.app/api/pin/?username=Felix-1435&repo=solar-ai-system&theme=nord&border_color=7dd3fc&text_color=ffffff&title_color=7dd3fc)
-
 An AI-assisted system for monitoring and analyzing solar setup data, with a live login-based web interface.
 
-| Layer      | Technology |
-|------------|------------|
-| Frontend   | HTML/CSS/JS |
+| Layer        | Technology |
+|--------------|------------|
+| Frontend     | HTML/CSS/JS |
 | Intelligence | AI/ML-driven logic |
-| Deployment | Hosted web app |
+| Deployment   | Hosted web app |
 
 🔗 [Live](http://65.2.182.162/login.html) · [Code](https://github.com/Felix-1435/solar-ai-system)
 

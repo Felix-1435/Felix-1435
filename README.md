@@ -130,7 +130,6 @@ An AI-assisted system for monitoring and analyzing solar setup data, with a live
 
 <div align="center">
 
-![Felix's GitHub Stats](https://github-readme-stats-six-snowy-79.vercel.app/api?username=Felix-1435&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&hide_border=false)
 ![Top Langs](https://github-readme-stats-six-snowy-79.vercel.app/api/top-langs/?username=Felix-1435&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Felix-1435&theme=nord&border_color=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&hide_border=false)

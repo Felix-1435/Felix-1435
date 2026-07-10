@@ -54,7 +54,7 @@ Complete mobile ordering flow designed in Figma, from browsing to checkout and s
 | Design  | Figma      |
 | Flow    | Mobile UI/UX (Browse → Checkout → Support) |
 
-🔗 [Code](https://github.com/Felix-1435/foody-app-ui)
+🔗 [Live Prototype](https://www.figma.com/proto/uDjmbHufirr0iHClKiVNdI/Untitled?node-id=48-153&p=f&t=0hPfDE8tBlR1UAiP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=28%3A13&show-proto-sidebar=1) · [Code](https://github.com/Felix-1435/foody-app-ui)
 
 <br/>
 

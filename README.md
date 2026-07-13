@@ -154,7 +154,7 @@ An AI-assisted system for monitoring and analyzing solar setup data, with a live
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-shiju-6980a5375)
 [![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixshiju8@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#) <!-- TODO: add your portfolio link here -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://felix-portfolio-web-nu.vercel.app/) 
 
 </div>
 

@@ -60,6 +60,43 @@ Full-stack platform helping gig delivery workers track earnings, log safety inci
 **[🔗 Live Demo](https://worker-pay-tracker--tfgpfelix.replit.app)**
 
 </td>
+
+
+
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☀️ Dual-Axis Solar Tracking System
+**IoT + AI Optimization**
+
+Autonomous dual-axis solar tracker with AI-driven positioning logic and a real-time IoT dashboard.
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Optimization-0EA5E9?style=flat-square"/>
+
+**[🔗 Live Demo](http://65.2.182.162/login.html)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Smart Computer Maintenance
+**PC Health & Security Suite**
+
+Web demo of a maintenance suite — live system dashboard, diagnostics, real AES file encryption, and a rule-based troubleshooting assistant.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/AES%2FPBKDF2-2E7D32?style=flat-square&logo=letsencrypt&logoColor=white"/>
+
+**[🔗 Live Demo](https://smart-computer-maintenance-web-demo.streamlit.app/)** · **[📦 Code](https://github.com/Felix-1435/smart-computer-maintenance-web-demo)**
+
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🌾 AI Agricultural Intelligence
@@ -75,40 +112,53 @@ RAG-powered assistant combining semantic search, AI crop/irrigation recommendati
 **[🔗 Live Demo](https://agricultural-app-web-demo.streamlit.app/)** · **[📦 Code](https://github.com/Felix-1435/agricultural-app-web-demo)**
 
 </td>
+
+<td width="50%" valign="top">
+
+#### 🎓 TFGP Computer Engineering Department Website
+Full department website for Tolani college — semester-wise subject lists, faculty directory, and department info.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+**[🔗 Live Demo](https://tfgp-clg-web.vercel.app/)**
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Smart Computer Maintenance
-**PC Health & Security Suite**
+### 📧 Email Logger App
+**Demo Email Sender & Log Viewer**
 
-Web demo of a maintenance suite — live system dashboard, diagnostics, real AES file encryption, and a rule-based troubleshooting assistant.
+Demo-mode email tool that logs outgoing message attempts (with attachments) instead of sending them, plus a dedicated sent-logs viewer.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/AES%2FPBKDF2-2E7D32?style=flat-square&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 
-**[🔗 Live Demo](https://smart-computer-maintenance-web-demo.streamlit.app/)** · **[📦 Code](https://github.com/Felix-1435/smart-computer-maintenance-web-demo)**
+**[🔗 Live Demo](https://email-logger-app.vercel.app/)**
 
 </td>
+
 <td width="50%" valign="top">
 
-### ☀️ Dual-Axis Solar Tracking System
-**IoT + AI Optimization**
+### ❌⭕ Tic-Tac-Toe Web Game
+**Player vs Player / Player vs Bot**
 
-Autonomous dual-axis solar tracker with AI-driven positioning logic and a real-time IoT dashboard.
+Responsive Tic-Tac-Toe game with live score tracking, sound effects on every move/win/draw, and board & score reset controls.
 
-<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Optimization-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
-**[🔗 Live Demo](http://65.2.182.162/login.html)**
+**[🔗 Live Demo](https://tictactoe-web-omega.vercel.app/)**
 
 </td>
-</tr>
-</table>
-
-<div align="center">
+</tdr>
+<tr>
+<td width="50%" valign="top">
 
 #### 🎨 Foody — Food Delivery App UI
 Complete mobile ordering flow designed in Figma — browsing → customization → checkout → support.
@@ -117,7 +167,9 @@ Complete mobile ordering flow designed in Figma — browsing → customization �
 
 **[🔗 Live Prototype](https://www.figma.com/proto/uDjmbHufirr0iHClKiVNdI/Untitled?node-id=48-153&p=f&t=0hPfDE8tBlR1UAiP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=28%3A13&show-proto-sidebar=1)** · **[📦 Code](https://github.com/Felix-1435/foody-app-ui)**
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 

@@ -32,7 +32,12 @@ const felix = {
     "Machine Learning",
     "Building with AI tools",
   ],
-  launchedProjects: ["foody-app-ui", "solar-ai-system"],
+  launchedProjects: [
+    "foody-app-ui",
+    "solar-ai-system",
+    "agricultural-app-web-demo",
+    "smart-computer-maintenance-web-demo",
+  ],
   certifications: [
     "Trinity College London — Theory of Music, Grade 1 (Distinction)",
     "Trinity College London — Rock & Pop Keyboards, Initial (Merit)",
@@ -74,6 +79,35 @@ An AI-assisted system for monitoring and analyzing solar setup data, with a live
 | Deployment   | Hosted web app |
 
 🔗 [Live](http://65.2.182.162/login.html) · [Code](https://github.com/Felix-1435/solar-ai-system)
+
+<br/>
+
+#### 🌾 AI Agricultural Intelligence System
+
+A Streamlit-based assistant for farmers combining semantic search over agricultural knowledge, AI-generated crop/irrigation/fertilizer recommendations, document processing, and a chatbot interface — built on the Gemini API with a local sentence-transformer embedding pipeline.
+
+| Layer        | Technology |
+|--------------|------------|
+| Frontend     | Streamlit |
+| Intelligence | Google Gemini API, Sentence-Transformers, FAISS (RAG) |
+| Deployment   | Streamlit Community Cloud |
+
+🔗 [Live](https://agricultural-app-web-demo.streamlit.app/) · [Code](https://github.com/Felix-1435/agricultural-app-web-demo)
+
+<br/>
+
+#### 🖥️ Smart Computer Maintenance System
+
+A web demo of a PC maintenance suite — live system dashboard, diagnostics, a real password-based file encryption tool, and a rule-based troubleshooting assistant, adapted from an original PyQt5 Windows desktop application.
+
+| Layer        | Technology |
+|--------------|------------|
+| Frontend     | Streamlit |
+| Intelligence | Rule-based diagnostics & assistant |
+| Security     | AES / PBKDF2 file & text encryption |
+| Deployment   | Streamlit Community Cloud |
+
+🔗 [Live](https://smart-computer-maintenance-web-demo.streamlit.app/) · [Code](https://github.com/Felix-1435/smart-computer-maintenance-web-demo)
 
 ---
 

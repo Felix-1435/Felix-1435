@@ -57,7 +57,7 @@ Full-stack platform helping gig delivery workers track earnings, log safety inci
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-**[🔗 Live Demo](https://worker-pay-tracker--tfgpfelix.replit.app)**
+**[🔗 Live Demo](https://worker-pay-tracker-api-server.vercel.app/)** · **[📦 Code](https://github.com/Felix-1435/Worker-Pay-Tracker)**
 
 </td>
 

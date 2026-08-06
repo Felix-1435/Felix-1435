@@ -61,7 +61,21 @@ Full-stack platform helping gig delivery workers track earnings, log safety inci
 
 </td>
 
+<td width="50%" valign="top">
 
+### 📡 Loopin
+**Attendance + AI Tutor Gap-Linking Platform**
+
+Full-stack EdTech platform that links every missed class to the exact topics covered, then gives students an AI tutor to catch up on just that gap.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square"/>
+
+**[🔗 Live Demo](https://loopin-api-server.vercel.app/)** · **[📦 Code](http://github.com/Felix-1435/Loopin)**
+
+</td>
 
 </tr>
 

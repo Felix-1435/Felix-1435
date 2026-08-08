@@ -1,20 +1,13 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:7DD3FC&height=230&section=header&text=Felix%20Shiju&fontSize=54&fontColor=0D1117&fontAlignY=38&animation=fadeIn&desc=Aspiring%20AI%20%2F%20Web%20Developer&descAlignY=58&descSize=20&descColor=0D1117" width="100%"/>
-
 <img src="https://img.shields.io/badge/🎓_B.Tech_CSE-0EA5E9?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/🤖_AI%2FML_Enthusiast-0EA5E9?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/🎹_Musician-0EA5E9?style=for-the-badge&labelColor=0D1117" />
-
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Felix-1435&color=0EA5E9&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/Felix-1435?label=FOLLOWERS&style=for-the-badge&color=0EA5E9" />
-
 </div>
-
 <br/>
-
 <table>
 <tr>
 <td width="62%" valign="middle">
@@ -25,20 +18,17 @@ I'm a Diploma Engineering graduate (GTU) now studying **B.Tech CSE**, building a
 
 Currently exploring prompt design and generative AI tooling, while picking up full-stack development along the way.
 
-**🔭 Currently building:** AI-powered web tools
-**🌱 Currently learning:** Machine Learning, Generative AI
-**💬 Ask me about:** Figma, Prompt Engineering, Python, Web Dev
+**🔭 Currently building:** AI-powered web tools  
+**🌱 Currently learning:** Machine Learning, Generative AI  
+**💬 Ask me about:** Figma, Prompt Engineering, Python, Web Dev  
 **⚡ Fun fact:** I play Rock & Pop on keyboard 🎹
 
 </td>
 <td width="38%" valign="middle" align="center">
-
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%"/>
-
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## 🚀 Featured Projects
@@ -60,25 +50,23 @@ Full-stack platform helping gig delivery workers track earnings, log safety inci
 **[🔗 Live Demo](https://worker-pay-tracker-api-server.vercel.app/)** · **[📦 Code](https://github.com/Felix-1435/Worker-Pay-Tracker)**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📡 Loopin
-**Attendance + AI Tutor Gap-Linking Platform**
+**Attendance + AI Tutor + MCQ Exams Platform**
 
-Full-stack EdTech platform that links every missed class to the exact topics covered, then gives students an AI tutor to catch up on just that gap.
+Full-stack EdTech platform that links every missed class to the exact topics covered, gives students a gap-aware AI tutor to catch up, and lets teachers run timed MCQ exams via QR with auto-grading, answer sheets, and attention analytics.
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Gemini%20%2F%20OpenAI-0EA5E9?style=flat-square"/>
 
 **[🔗 Live Demo](https://loopin-api-server.vercel.app/)** · **[📦 Code](http://github.com/Felix-1435/Loopin)**
 
 </td>
-
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -109,7 +97,6 @@ Web demo of a maintenance suite — live system dashboard, diagnostics, real AES
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -126,10 +113,10 @@ RAG-powered assistant combining semantic search, AI crop/irrigation recommendati
 **[🔗 Live Demo](https://agricultural-app-web-demo.streamlit.app/)** · **[📦 Code](https://github.com/Felix-1435/agricultural-app-web-demo)**
 
 </td>
-
 <td width="50%" valign="top">
 
 #### 🎓 TFGP Computer Engineering Department Website
+
 Full department website for Tolani college — semester-wise subject lists, faculty directory, and department info.
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -155,7 +142,6 @@ Demo-mode email tool that logs outgoing message attempts (with attachments) inst
 **[🔗 Live Demo](https://email-logger-app.vercel.app/)**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### ❌⭕ Tic-Tac-Toe Web Game
@@ -170,11 +156,12 @@ Responsive Tic-Tac-Toe game with live score tracking, sound effects on every mov
 **[🔗 Live Demo](https://tictactoe-web-omega.vercel.app/)**
 
 </td>
-</tdr>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 #### 🎨 Foody — Food Delivery App UI
+
 Complete mobile ordering flow designed in Figma — browsing → customization → checkout → support.
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
@@ -184,7 +171,6 @@ Complete mobile ordering flow designed in Figma — browsing → customization �
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## 💼 Experience
@@ -193,14 +179,13 @@ Complete mobile ordering flow designed in Figma — browsing → customization �
 <summary><b>Evansh Services</b> — Internship · 3 mos</summary>
 <br/>
 
-**Web Development Intern** · Jun 2025 – Jul 2025 (2 mos)
+**Web Development Intern** · Jun 2025 – Jul 2025 (2 mos)  
 Worked with Figma for UI/UX design and GitHub for version control, as part of the GTU Diploma Engineering curriculum (2nd semester).
 
-**Machine Learning Intern** · May 2025 – Jul 2025 (3 mos)
+**Machine Learning Intern** · May 2025 – Jul 2025 (3 mos)  
 Development and deployment of ML-based predictive systems for web and mobile platforms, as part of the GTU Diploma Engineering curriculum (4th semester project). *Skills: Generative AI*
 
 </details>
-
 <br/>
 
 ## 📜 Certifications & Licenses
@@ -223,7 +208,6 @@ Development and deployment of ML-based predictive systems for web and mobile pla
 <sub>CIWD: HTML/CSS/JS coursework + capstone website — 89% (A+). IoT: 60-hour CSR skill program with practicals, industrial visits & viva.</sub>
 
 </details>
-
 <br/>
 
 ## 🏅 Honors & Awards
@@ -238,38 +222,26 @@ Development and deployment of ML-based predictive systems for web and mobile pla
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,js,html,css,java,git,github,figma&theme=dark"/>
-
 </div>
-
 <br/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img width="49%" src="https://github-readme-stats-six-snowy-79.vercel.app/api?username=Felix-1435&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=E5E9F0"/>
 <img width="49%" src="https://github-readme-stats-six-snowy-79.vercel.app/api/top-langs/?username=Felix-1435&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=E5E9F0"/>
-
 <img width="98%" src="https://streak-stats.demolab.com?user=Felix-1435&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9"/>
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Felix-1435&theme=tokyo-night&bg_color=0D1117&color=0EA5E9&line=0EA5E9&point=ffffff&hide_border=true"/>
-
 </div>
-
 <br/>
 
 ## 📫 Connect with Me
 
 <div align="center">
-
 <a href="https://www.linkedin.com/in/felix-shiju-6980a5375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:felixshiju8@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://felix-portfolio-web-nu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
 </div>
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7DD3FC,100:0EA5E9&height=120&section=footer&animation=fadeIn" width="100%"/>

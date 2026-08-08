@@ -47,7 +47,7 @@ Full-stack platform helping gig delivery workers track earnings, log safety inci
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-**[🔗 Live Demo](https://worker-pay-tracker-api-server.vercel.app/)** · **[📦 Code](https://github.com/Felix-1435/Worker-Pay-Tracker)**
+**[🔗 Live Demo](https://worker-pay-tracker-api-server.vercel.app/)** ·
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +63,7 @@ Full-stack EdTech platform that links every missed class to the exact topics cov
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gemini%20%2F%20OpenAI-0EA5E9?style=flat-square"/>
 
-**[🔗 Live Demo](https://loopin-api-server.vercel.app/)** · **[📦 Code](http://github.com/Felix-1435/Loopin)**
+**[🔗 Live Demo](https://loopin-api-server.vercel.app/)** ·
 
 </td>
 </tr>
@@ -93,7 +93,7 @@ Web demo of a maintenance suite — live system dashboard, diagnostics, real AES
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/AES%2FPBKDF2-2E7D32?style=flat-square&logo=letsencrypt&logoColor=white"/>
 
-**[🔗 Live Demo](https://smart-computer-maintenance-web-demo.streamlit.app/)** · **[📦 Code](https://github.com/Felix-1435/smart-computer-maintenance-web-demo)**
+**[🔗 Live Demo](https://smart-computer-maintenance-web-demo.streamlit.app/)** ·
 
 </td>
 </tr>
@@ -110,7 +110,7 @@ RAG-powered assistant combining semantic search, AI crop/irrigation recommendati
 <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-00A67E?style=flat-square"/>
 
-**[🔗 Live Demo](https://agricultural-app-web-demo.streamlit.app/)** · **[📦 Code](https://github.com/Felix-1435/agricultural-app-web-demo)**
+**[🔗 Live Demo](https://agricultural-app-web-demo.streamlit.app/)** ·
 
 </td>
 <td width="50%" valign="top">

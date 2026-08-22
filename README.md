@@ -50,6 +50,7 @@ Full-stack platform helping gig delivery workers track earnings, log safety inci
 **[🔗 Live Demo](https://worker-pay-tracker-api-server.vercel.app/)** ·
 
 </td>
+<tr>
 <td width="50%" valign="top">
 ### 📡 Loopin
 **Attendance + AI Tutor + MCQ Exams + Work Hub**

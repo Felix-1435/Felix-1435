@@ -51,20 +51,15 @@ Full-stack platform helping gig delivery workers track earnings, log safety inci
 
 </td>
 <td width="50%" valign="top">
-
 ### 📡 Loopin
-**Attendance + AI Tutor + MCQ Exams Platform**
-
-Full-stack EdTech platform that links every missed class to the exact topics covered, gives students a gap-aware AI tutor to catch up, and lets teachers run timed MCQ exams via QR with auto-grading, answer sheets, and attention analytics.
-
+**Attendance + AI Tutor + MCQ Exams + Work Hub**
+Full-stack EdTech platform that links every missed class to the exact topics covered, gives students a gap-aware AI tutor, lets teachers run timed MCQ exams via QR with auto-grading, and includes a Moodle-style **Work Hub** for assignments, practicals & projects — all scoped by semester (1–8) and division (A/B/C).
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Gemini%20%2F%20OpenAI-0EA5E9?style=flat-square"/>
-
 **[🔗 Live Demo](https://loopin-api-server.vercel.app/)** ·
-
 </td>
 </tr>
 <tr>

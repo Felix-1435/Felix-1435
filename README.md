@@ -191,7 +191,7 @@ Development and deployment of ML-based predictive systems for web and mobile pla
 ## 📜 Certifications & Licenses
 
 <details>
-<summary>Click to expand — 9 certifications</summary>
+<summary>Click to expand — 10 certifications</summary>
 <br/>
 
 | Certification | Issuer | Date | Credential |
@@ -205,8 +205,9 @@ Development and deployment of ML-based predictive systems for web and mobile pla
 | Certificate in Web Designing (CIWD) | NRGY Computer Education | Jan 2026 | EMCE803335 |
 | Smart Technology with IoT | Gandhidham Collegiate Board | Feb 2026 | 000273 |
 | **Arduino Edge AI Bootcamp** | Arduino | Sep 2026 | AS_B01L-915-29 |
+| **AWS Academy Graduate – Cloud Foundations** | AWS Academy | Oct 2026 | [Credly badge](https://www.credly.com/go/wmgoTtUp) |
 
-<sub>CIWD: HTML/CSS/JS coursework + capstone website — 89% (A+). IoT: 60-hour CSR skill program with practicals, industrial visits & viva. Arduino Edge AI: hands-on MPU, MCU & physical AI models on Arduino UNO Q platform.</sub>
+<sub>CIWD: HTML/CSS/JS coursework + capstone website — 89% (A+). IoT: 60-hour CSR skill program with practicals, industrial visits & viva. Arduino Edge AI: hands-on MPU, MCU & physical AI models on Arduino UNO Q platform. AWS Cloud Foundations: 20-hour training badge covering core AWS cloud concepts.</sub>
 
 </details>
 <br/>
